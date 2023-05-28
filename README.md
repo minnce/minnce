@@ -16,4 +16,4 @@
 ✍️ &nbsp;In my free time, I play tennis and the harp.\
 ⚡ &nbsp;Fun fact: I speak Korean at a native profiency and am also fluent in Spanish.\
 ✉️ &nbsp;Feel free to email me at chrisminn@u.northwestern.edu!\
-📄 &nbsp;Feel free to also look at my [Résumé]((https://drive.google.com/file/d/1HNTl2VZGsFdtVErMZsRI8J0Ge9wVgUYI/view)) for additional details not found here!
+📄 &nbsp;Feel free to also look at my [Résumé](https://drive.google.com/file/d/1HNTl2VZGsFdtVErMZsRI8J0Ge9wVgUYI/view) for additional details not found here!
