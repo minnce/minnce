@@ -10,7 +10,7 @@
 />
 </a>
 </p>
-👨🏻‍💻 &nbsp;About Me
+#### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently a second year student at Northwestern University studying Computer Engineering and Mathematics.\
 ✍️ &nbsp;In my free time, I play tennis and the harp.\
