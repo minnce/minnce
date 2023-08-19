@@ -15,6 +15,6 @@
 🎓 &nbsp;I'm currently a second year student at Northwestern University studying Computer Engineering and Mathematics.\
 ✍️ &nbsp;In my free time, I play tennis and the harp.\
 ⚡ &nbsp;Fun fact: I speak Korean at a native profiency and am also fluent in Spanish.\
-✉️ &nbsp;Feel free to email me at chrisminn@u.northwestern.edu!\
+✉️ &nbsp;Feel free to email me at chrisminn205@gmail.com!\
 📄 &nbsp;Feel free to also look at my [Résumé](https://drive.google.com/file/d/1yCLdAN0vhAY6awO1PaNZLsDQe_c9Bbh1/view?usp=sharing) for additional details!
 
