@@ -12,7 +12,7 @@
 </p>
 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently a second year student at Northwestern University studying Computer Engineering and Mathematics.\
+🎓 &nbsp;I'm currently an undergraduate student at Northwestern University studying Computer Engineering and Mathematics.\
 ✍️ &nbsp;In my free time, I play tennis and the harp.\
 ⚡ &nbsp;Fun fact: I speak Korean at a native profiency and am also fluent in Spanish.\
 ✉️ &nbsp;Feel free to email me at chrisminn205@gmail.com!\
