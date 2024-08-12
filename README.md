@@ -13,7 +13,7 @@
 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently an undergraduate student at Northwestern University studying Computer Engineering and Mathematics.\
-📝 &nbsp;My resume can be found [here](https://drive.google.com/file/d/1vHwHX4YlwUEiQiHnXg_Ohd09XdR9khtn/view?usp=sharing).
+📝 &nbsp;My resume can be found [here](https://drive.google.com/file/d/1vHwHX4YlwUEiQiHnXg_Ohd09XdR9khtn/view?usp=sharing).\
 ✍️ &nbsp;In my free time I play tennis and harp.\
 ⚡ &nbsp;Fun fact: I speak Korean at a native profiency and am also fluent in Spanish.\
-✉️ &nbsp;Feel free to email me at chrisminn205@gmail.com!\
+✉️ &nbsp;Feel free to email me at chrisminn205@gmail.com!
